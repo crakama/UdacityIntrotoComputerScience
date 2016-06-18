@@ -13,3 +13,10 @@
 # twister = "she sells seashells by the seashore"
 # print find_second(twister,'she')
 # >>> 13
+
+twister = "she sells seashells by the seashore"
+def find_second(twister, 'she'):
+
+
+
+find_second(twister)	
