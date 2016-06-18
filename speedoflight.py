@@ -13,7 +13,7 @@ distance = 29979245800
 
 def calcSpeed(time, distance):
 
-    speed = distance / time   # cm per second
+    speed = distance * time   # cm per second
     print speed
 
 calcSpeed(time, distance)
