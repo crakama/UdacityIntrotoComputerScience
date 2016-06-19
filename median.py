@@ -24,18 +24,5 @@ def median(a, b, c):
 
 
 
-#print(median(1,2,3))
-#>>> 2
-
-#print(median(9,3,6))
-#>>> 6
-
-#print(median(7,8,7))
-#>>> 7
-
-
-
-
-
 
 
