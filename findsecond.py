@@ -15,8 +15,12 @@
 # >>> 13
 
 twister = "she sells seashells by the seashore"
-def find_second(twister, 'she'):
+target = 'she'
 
 
+def find_second(twister, target):
+    firstoccur = twister.find(target)
+    return twister.find(firstoccur + 1)
 
-find_second(twister)	
+
+find_second(twister)
