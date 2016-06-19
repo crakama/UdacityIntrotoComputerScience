@@ -17,3 +17,9 @@
 
 #print abbaize('dog','cat')
 #>>> 'dogcatcatdog'
+
+
+def abbaize(a, b)
+    return a + b + b + a
+
+abbaize('dog', 'cat')
