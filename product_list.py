@@ -16,11 +16,3 @@ num = [1, 2, 3, 4]
 product_list(num)
 
 
-# print product_list([9])
-#>>> 9
-
-# print product_list([1,2,3,4])
-#>>> 24
-
-# print product_list([])
-#>>> 1
