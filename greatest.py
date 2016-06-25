@@ -19,11 +19,4 @@ list_ = []
 print greatest(list_)
 
 
-
-
-#print greatest([4,23,1])
-#>>> 23
-#print greatest([])
-#>>> 0
-
     
