@@ -15,7 +15,8 @@
 
 source = ['-',' ','!']
 def split_string(source,splitlist):
-
+	if
+    splitlist.split()   
 
 
 
